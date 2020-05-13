@@ -1,0 +1,32 @@
+PODS:
+  - ModelMapper (8.0.0)
+  - ReachabilitySwift (4.1.0)
+  - SwiftCharts (0.6.5)
+
+DEPENDENCIES:
+  - ModelMapper
+  - ReachabilitySwift
+  - SwiftCharts (from `https://github.com/i-schuetz/SwiftCharts.git`)
+
+SPEC REPOS:
+  trunk:
+    - ModelMapper
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  SwiftCharts:
+    :git: https://github.com/i-schuetz/SwiftCharts.git
+
+CHECKOUT OPTIONS:
+  SwiftCharts:
+    :commit: 4328059eced53bb8d07f57b25bf5288d4f44f842
+    :git: https://github.com/i-schuetz/SwiftCharts.git
+
+SPEC CHECKSUMS:
+  ModelMapper: a258c5f8e1422e0e826c8265a3e89ae1b329c3a6
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SwiftCharts: 2e755ea292f0b87d3e4b2c1eb5afc080a20cdc15
+
+PODFILE CHECKSUM: 987bb599c8e70b4a8c521f6141d828eec73311e3
+
+COCOAPODS: 1.9.1
